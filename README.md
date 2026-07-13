@@ -70,12 +70,15 @@ Aspiring Software Developer | Java DSA Enthusiast | Data Science Learner
 🚀 **Featured Projects**
 
 🔹 **AI-Powered Competency Assessment Engine (Ongoing)**
+
 A dynamic full-stack web application built with Python, Flask, and Jinja2 to evaluate technical competencies. It integrates the Gemini LLM API to auto-generate domain-specific exams and features real-time backend evaluation.
 
 🔹 **Industrial Brain AI**
+
 An AI-powered Industrial Knowledge Intelligence platform developed using Python and Streamlit. It features intelligent document analysis, AI-based Q&A, maintenance recommendations, and equipment entity extraction.
 
 🔹 **Basic QR Code Generator**
+
 A Flask web app that dynamically generates and renders custom QR codes from user URLs. It processes images in-memory and converts binary data into base64 strings for instant HTML rendering without local server storage.
 
 ---
