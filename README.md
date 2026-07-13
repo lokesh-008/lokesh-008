@@ -67,19 +67,16 @@ Aspiring Software Developer | Java DSA Enthusiast | Data Science Learner
 
 ---
 
-## 🚀 Featured Projects
+🚀 **Featured Projects**
 
-### 🔹 CodeCrate
-A Personal Code Snippet Manager built using Flask and Python to organize and access code snippets efficiently.
+🔹 **AI-Powered Competency Assessment Engine (Ongoing)**
+A dynamic full-stack web application built with Python, Flask, and Jinja2 to evaluate technical competencies. It integrates the Gemini LLM API to auto-generate domain-specific exams and features real-time backend evaluation.
 
-### 🔹 Smart Wireless Locking System
-Bluetooth-based smart locking system using Arduino, HC-05 and Servo Motor.
+🔹 **Industrial Brain AI**
+An AI-powered Industrial Knowledge Intelligence platform developed using Python and Streamlit. It features intelligent document analysis, AI-based Q&A, maintenance recommendations, and equipment entity extraction.
 
-### 🔹 Student Performance Analysis
-Data Science project for analyzing student performance using Pandas and NumPy.
-
-### 🔹 PDF Merger App
-Android application to merge PDF files quickly and efficiently.
+🔹 **Basic QR Code Generator**
+A Flask web app that dynamically generates and renders custom QR codes from user URLs. It processes images in-memory and converts binary data into base64 strings for instant HTML rendering without local server storage.
 
 ---
 
