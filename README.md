@@ -86,14 +86,6 @@ Android application to merge PDF files quickly and efficiently.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokesh-008&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-008&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=lokesh-008&theme=tokyonight" />
 </p>
 
