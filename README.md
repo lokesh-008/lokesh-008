@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokesh Vijay Patil</h1>
 
 <h3 align="center">
-Aspiring Software Developer | Java DSA Enthusiast | Data Science Learner
+Aspiring Data Analyst | Java DSA Enthusiast | Data Science Learner
 </h3>
 
 <p align="center">
